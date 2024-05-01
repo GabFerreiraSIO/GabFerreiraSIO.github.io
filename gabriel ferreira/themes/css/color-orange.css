@@ -6,9 +6,13 @@
 * Author   : sujal
 * 
 ------------------*/
+.contactpic{
+    filter: opacity(0.5) drop-shadow(0 0 0 #ff9100);
+    opacity: 1 !important;
+}
 ::-webkit-scrollbar{
     width: 4px;
-    color:#ff9100(153, 255, 0);
+    color:#ff9100;
 }
 ::-webkit-scrollbar-thumb {
     background: #ff9100; 
