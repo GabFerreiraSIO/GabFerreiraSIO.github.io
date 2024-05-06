@@ -97,7 +97,7 @@ $(function(){
     'portfolio',
     'contact',
     'contacte',
-    'objectifs',
+    'suite',
   ];
   
   function hideAllLinks() {    
