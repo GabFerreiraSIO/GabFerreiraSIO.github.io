@@ -96,6 +96,7 @@ $(function(){
     'blog',
     'portfolio',
     'contact',
+    'contacte',
   ];
   
   function hideAllLinks() {    
