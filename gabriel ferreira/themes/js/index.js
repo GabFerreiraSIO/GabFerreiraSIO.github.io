@@ -98,6 +98,7 @@ $(function(){
     'contact',
     'contacte',
     'suite',
+    'bts',
   ];
   
   function hideAllLinks() {    
